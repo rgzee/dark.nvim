@@ -1,0 +1,53 @@
+# dark.nvim
+
+dark color scheme for neovim
+
+![screenshot](screenshot.png "screenshot of neovim with dark.nvim color sheme")
+
+```
+"rgzee/dark.nvim"
+```
+
+languages
+
+- css
+- elm
+- go
+- haskell
+- html
+- javascript
+- jsx
+- lua
+- markdown
+- sass
+- shell
+- typescript
+- vimscript
+- xml
+
+features
+
+- cmp
+- git diff
+- git signs
+- lsp diagnostics
+- telescope
+- treesitter
+
+---
+
+isc license
+
+copyright &copy; 2022 rgz.ee o&uuml; <https://rgz.ee>
+
+permission to use, copy, modify, and distribute this software for any purpose
+with or without fee is hereby granted, provided that the above copyright notice
+and this permission notice appear in all copies.
+
+the software is provided "as is" and the author disclaims all warranties with
+regard to this software including all implied warranties of merchantability and
+fitness. in no event shall the author be liable for any special, direct,
+indirect, or consequential damages or any damages whatsoever resulting from loss
+of use, data or profits, whether in an action of contract, negligence or other
+tortious action, arising out of or in connection with the use or performance of
+this software.
